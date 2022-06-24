@@ -12,7 +12,7 @@ resolution = 10
 factor = 1
 
 [ped_repulsive_force]
-factor = 1.5
+factor = 12 #  def = 1.5
 v0 = 2.1
 sigma = 0.3
 # fov params
