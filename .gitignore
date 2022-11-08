@@ -130,3 +130,7 @@ dmypy.json
 
 # yigit
 data/
+new_scripts/val/
+*.pt
+*.npy
+*.jpg
